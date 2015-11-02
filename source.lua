@@ -1,3 +1,5 @@
+--By Trey Reynolds
+
 --Create new canvas with newcanvas(width,height,blanketred,blanketgreen,blanketblue)
 --Canvas pixels are indexed with canvas[y][x], where y is from 1 to height, and x is from 1 to width
 --Subpixels are indexed with pixel.r, pixel.g, pixel.b
